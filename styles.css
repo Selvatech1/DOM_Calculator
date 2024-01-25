@@ -1,0 +1,12 @@
+/* styles.css */
+
+.calculator {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  .btn {
+    font-size: 1.5em;
+    margin: 5px;
+  }
+  
